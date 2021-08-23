@@ -2,6 +2,5 @@
 
 Включает в себя:
 
-01_Registration_form - чек-лист для тестирования формы регистрации http://itcareer.pythonanywhere.com 
-
-
+* 01_Registration_form - чек-лист для тестирования формы регистрации http://itcareer.pythonanywhere.com 
+* 02_IP_check - чек-лист и вопросы к системе, проверяющей доступность узлов в сeти.
